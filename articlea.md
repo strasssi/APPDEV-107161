@@ -1,7 +1,6 @@
 
 # Python
 
----
 
 Python is a powerful, high-level programming language that is widely used in many different fields, including web development, data science, artificial intelligence, and more. It is known for its simple, easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article, we will explore some of the key features of Python and why it is such a popular choice for programmers.
 
@@ -10,7 +9,6 @@ Python is a powerful, high-level programming language that is widely used in man
 
 ## Why Python is Popular
 
----
 
 Python is a popular programming language for many reasons. Some of the key features that make it so attractive to programmers include:
 
@@ -25,7 +23,6 @@ Python is a popular programming language for many reasons. Some of the key featu
 
 ## Applications of Python
 
----
 
 Python is widely used in many different fields, such as:
 
@@ -42,7 +39,6 @@ Python is widely used in many different fields, such as:
 
 ## Getting Started with Python
 
----
 
 To get started with Python, you will need to download and install the Python software. You can download the latest version of Python from the official [Python website (https://www.python.org/downloads)](https://www.python.org/downloads). Once you have installed Python, you can start writing and running code. 
 
@@ -51,12 +47,11 @@ To write code in Python, you can use any text editor or integrated development e
 
 ## Python Libraries
 
----
 
 Python has a wide range of libraries available that provide additional functionality for different tasks. Some of the most popular libraries include:
 
 | Library          | Description                                               |
-|------------------|-----------------------------------------------------------|
+|:-----------------|:----------------------------------------------------------|
 | **NumPy**        | A library for working with arrays and matrices.           |
 | **Pandas**       | A library for working with data frames and data analysis. |
 | **Matplotlib**   | A library for creating visualizations and plots.          |
@@ -65,14 +60,13 @@ Python has a wide range of libraries available that provide additional functiona
 
 ## Python Functions
 
----
 
 Python functions are blocks of code that can be reused multiple times. A function is defined using the `def` keyword, followed by the function name and a set of parentheses. The code inside the function is executed when the function is called. 
 For example, the following code defines a function called greet that prints a message:
 
 ```python
 def greet(name):
-print(f"Hello, {name}")
+	print(f"Hello, {name}")
 
 greet("John")
 ```
@@ -85,7 +79,7 @@ When the code is run, it will print "Hello, John".
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such as:
 
 | Function  | Description                                                                 |
-|-----------|-----------------------------------------------------------------------------|
+|:----------|:----------------------------------------------------------------------------|
 | `print()` | The *print* function is used to display output to the console.              |
 | `len()`   | The *len* function is used to find the length of a string or a list.        |
 | `str()`   | The *str* function is used to convert a value to a string.                  |
@@ -96,7 +90,6 @@ Python has a variety of built-in functions that can be used to perform a wide ra
 
 ## Conclusion
 
----
 
 Python is a powerful, high-level programming language that is widely used in many different fields. Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its large community of developers ensures that there is always support and resources available. With a wide range of libraries available for different tasks, Python is a versatile choice for any programmer.
 
@@ -107,7 +100,6 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 
 ## Resources
 
----
 
 Here are some helpful resources for learning more about Python:
 
